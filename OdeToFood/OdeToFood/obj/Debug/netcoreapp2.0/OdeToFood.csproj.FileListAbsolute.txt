@@ -1,0 +1,11 @@
+C:\Development\ASP.NET-Core-2017\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.0\OdeToFood.deps.json
+C:\Development\ASP.NET-Core-2017\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.0\OdeToFood.runtimeconfig.json
+C:\Development\ASP.NET-Core-2017\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.0\OdeToFood.runtimeconfig.dev.json
+C:\Development\ASP.NET-Core-2017\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.0\OdeToFood.dll
+C:\Development\ASP.NET-Core-2017\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.0\OdeToFood.pdb
+C:\Development\ASP.NET-Core-2017\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.0\OdeToFood.csprojResolveAssemblyReference.cache
+C:\Development\ASP.NET-Core-2017\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.0\OdeToFood.csproj.CoreCompileInputs.cache
+C:\Development\ASP.NET-Core-2017\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.0\OdeToFood.AssemblyInfoInputs.cache
+C:\Development\ASP.NET-Core-2017\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.0\OdeToFood.AssemblyInfo.cs
+C:\Development\ASP.NET-Core-2017\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.0\OdeToFood.dll
+C:\Development\ASP.NET-Core-2017\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.0\OdeToFood.pdb
